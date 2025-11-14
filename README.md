@@ -36,7 +36,7 @@ Train-Test split (80-20)
 
 SMOTE for class imbalance (if required)
 
-Slide 6 — Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 📊 EDA insights:
 
@@ -52,7 +52,7 @@ Feature importance analysis
 
 ## Machine Learning Models
 
-🏗️ Models Tested:
+### 🏗️ Models Tested:
 
 Logistic Regression
 
@@ -62,7 +62,7 @@ Support Vector Machine
 
 XGBoost (Best Performing)
 
-✅ Evaluation Metrics:
+### ✅ Evaluation Metrics:
 
 Accuracy
 
@@ -110,6 +110,7 @@ Displays prediction result and probability
 Model loaded via joblib
 
 🧩 Backend: Trained ML models
+
 🎨 Frontend: Streamlit Interface
 
 ## System Architecture
